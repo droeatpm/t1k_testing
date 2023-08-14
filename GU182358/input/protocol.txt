@@ -1,0 +1,5 @@
+2x250 30x just one hap
+dwgsim -e0.0 -E0.0 -d0 -N9000 -1250 -2250 -r0.0 -R0 -c0 -qf $HOME/data/kir/references/GU182358.fasta GU182358
+nice hisat2-build GU182358.fasta GU182358 -p 8
+samtools faidx GU182358.fasta
+

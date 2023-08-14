@@ -1,0 +1,30 @@
+>Feature HG01106_1_tig00000047
+2713	17453	gene
+			gene	KIR2DL1
+			allele	KIR2DL1*0030205
+2713	3014	mRNA
+3979	4014
+6463	6762
+8295	8588
+11742	11792
+16052	16153
+16616	16668
+16767	17453
+			product	killer cell immunoglobulin-like receptor
+2981	3014	CDS
+3979	4014
+6463	6762
+8295	8588
+11742	11792
+16052	16153
+16616	16668
+16767	16943
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+19217	28686	gene
+			gene	KIR3DP1
+			allele	KIR3DP1*0030202
+			gene_desc	killer cell immunoglobulin-like receptor
+			pseudo
+			pseudogene	unprocessed
+

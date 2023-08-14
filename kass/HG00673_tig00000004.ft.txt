@@ -1,0 +1,126 @@
+>Feature HG0673_tig00000004
+16	14756	gene
+			gene	KIR2DL1
+			allele	KIR2DL1*00302
+16	317	mRNA
+1282	1317
+3766	4065
+5598	5891
+9045	9095
+13355	13456
+13919	13971
+14070	14756
+			product	killer cell immunoglobulin-like receptor
+284	317	CDS
+1282	1317
+3766	4065
+5598	5891
+9045	9095
+13355	13456
+13919	13971
+14070	14246
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+
+16520	25988	gene
+			gene	KIR3DP1
+			allele	KIR3DP1*0030202
+			gene_desc	killer cell immunoglobulin-like receptor
+			pseudo
+			pseudogene	unprocessed
+
+33816	44952	gene
+			gene	KIR2DL4
+			allele	KIR2DL4*0060201
+33816	34122	mRNA
+34322	34357
+35224	35508
+36382	36675
+39264	39314
+43558	43662
+44124	44176
+44276	44952
+			product	killer cell immunoglobulin-like receptor
+34083	34122	CDS
+34322	34357
+35224	35508
+36382	36675
+39264	39314
+43558	43662
+44124	44176
+44276	44545
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+
+46669	61218	gene
+			gene	KIR3DL1
+			allele	KIR3DL1*0070104
+46669	46969	mRNA
+47973	48008
+48753	49037
+50151	50450
+52003	52296
+55466	55516
+59800	59904
+60367	60419
+60538	61218
+			product	killer cell immunoglobulin-like receptor
+46936	46969	CDS
+47973	48008
+48753	49037
+50151	50450
+52003	52296
+55466	55516
+59800	59904
+60367	60419
+60538	60714
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+
+62937	78810	gene
+			gene	KIR2DS4
+			allele	KIR2DS4*00401
+62937	63237	mRNA
+65326	65361
+67822	68121
+69674	69945
+73113	73163
+77427	77531
+77994	78046
+78145	78810
+			product	killer cell immunoglobulin-like receptor
+63204	63237	CDS
+65326	65361
+67822	68121
+69674	69945
+73113	73163
+77427	77453
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+
+80448	97424	gene
+			gene	KIR3DL2
+			allele	KIR3DL2*00801
+80448	80749	mRNA
+81421	81456
+82199	82483
+83948	84247
+85827	86120
+89288	89338
+96013	96117
+96578	96630
+96730	97424
+			product	killer cell immunoglobulin-like receptor
+80716	80749	CDS
+81421	81456
+82199	82483
+83948	84247
+85827	86120
+89288	89338
+96013	96117
+96578	96630
+96730	96939
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+
+

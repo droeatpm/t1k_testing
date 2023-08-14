@@ -1,0 +1,8 @@
+>Feature HG01106_1_tig00000046
+3221	12690	gene
+			gene	KIR3DP1
+			allele	KIR3DP1*0030202
+			gene_desc	killer cell immunoglobulin-like receptor
+			pseudo
+			pseudogene	unprocessed
+

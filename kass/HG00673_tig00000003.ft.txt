@@ -1,0 +1,24 @@
+>Feature HG0673_tig00000003
+19929	32330	gene
+			gene	KIR3DL3
+			allele	KIR3DL3*01001
+19929	20224	mRNA
+20941	20976
+21747	22031
+23305	23604
+25187	25480
+30950	31054
+31517	31569
+31668	32330
+			product	killer cell immunoglobulin-like receptor
+20191	20224	CDS
+20941	20976
+21747	22031
+23305	23604
+25187	25480
+30950	31054
+31517	31569
+31668	31793
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+

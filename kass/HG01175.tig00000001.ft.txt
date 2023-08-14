@@ -1,0 +1,172 @@
+>Feature tig00000001
+21003	33367	gene
+			gene	KIR3DL3
+			allele	KIR3DL3*00207
+21003	21298	mRNA
+21976	22011
+22782	23066
+24340	24639
+26222	26515
+31987	32091
+32554	32606
+32705	33367
+			product	killer cell immunoglobulin-like receptor
+21265	21298	CDS
+21976	22011
+22782	23066
+24340	24639
+26222	26515
+31987	32091
+32554	32606
+32705	32830
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+35010	49764	gene
+			gene	KIR2DL3
+			allele	KIR2DL3*00101
+35010	35311	mRNA
+36220	36255
+38693	38992
+40508	40801
+44046	44096
+48360	48464
+48927	48979
+49078	49764
+			product	killer cell immunoglobulin-like receptor
+35278	35311	CDS
+36220	36255
+38693	38992
+40508	40801
+44046	44096
+48360	48464
+48927	48979
+49078	49230
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+51467	64590	gene
+			gene	KIR2DP1
+			allele	KIR2DP1*NEW
+			gene_desc	killer cell immunoglobulin-like receptor
+			pseudo
+			pseudogene	unprocessed
+
+66292	81032	gene
+			gene	KIR2DL1
+			allele	KIR2DL1*0030225
+66292	66593	mRNA
+67558	67593
+70042	70341
+71874	72167
+75321	75371
+79631	79732
+80195	80247
+80346	81032
+			product	killer cell immunoglobulin-like receptor
+66560	66593	CDS
+67558	67593
+70042	70341
+71874	72167
+75321	75371
+79631	79732
+80195	80247
+80346	80522
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+82796	92265	gene
+			gene	KIR3DP1
+			allele	KIR3DP1*00302
+			gene_desc	killer cell immunoglobulin-like receptor
+			pseudo
+			pseudogene	unprocessed
+100079	111255	gene
+			gene	KIR2DL4
+			allele	KIR2DL4*00103
+100079	100385	mRNA
+100585	100620
+101521	101805
+102679	102972
+105568	105618
+109861	109965
+110427	110479
+110579	111255
+			product	killer cell immunoglobulin-like receptor
+100346	100385	CDS
+100585	100620
+101521	101805
+102679	102972
+105568	105618
+109861	109965
+110427	110479
+110579	110848
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+112972	127520	gene
+			gene	KIR3DL1
+			allele	KIR3DL1*00801
+112972	113272	mRNA
+114276	114311
+115056	115340
+116454	116753
+118306	118599
+121769	121819
+126102	126206
+126669	126721
+126840	127520
+			product	killer cell immunoglobulin-like receptor
+113239	113272	CDS
+114276	114311
+115056	115340
+116454	116753
+118306	118599
+121769	121819
+126102	126206
+126669	126721
+126840	127016
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+129239	145305	gene
+			gene	KIR2DS4
+			allele	KIR2DS4*00301
+129239	129539	mRNA
+131820	131855
+134317	134616
+136169	136440
+139608	139658
+143922	144026
+144489	144541
+144640	145305
+			product	killer cell immunoglobulin-like receptor
+129506	129539	CDS
+131820	131855
+134317	134616
+136169	136440
+139608	139658
+143922	143948
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+
+146947	163961	gene
+			gene	KIR3DL2
+			allele	KIR3DL2*00901
+146947	147248	mRNA
+147959	147994
+148737	149021
+150486	150785
+152365	152658
+155825	155875
+162550	162654
+163115	163167
+163267	163961
+			product	killer cell immunoglobulin-like receptor
+147215	147248	CDS
+147959	147994
+148737	149021
+150486	150785
+152365	152658
+155825	155875
+162550	162654
+163115	163167
+163267	163476
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+

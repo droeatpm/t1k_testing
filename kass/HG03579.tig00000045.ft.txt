@@ -1,0 +1,25 @@
+>Feature tig00000045
+11831	>23688	gene
+			gene	KIR3DL3
+			allele	KIR3DL3*04101
+			note	partial
+11831	12126	mRNA
+12804	12839
+13610	13894
+15168	15467
+17046	17339
+22807	22911
+23374	23426
+23525	>23688
+			product	killer cell immunoglobulin-like receptor
+12093	12126	CDS
+12804	12839
+13610	13894
+15168	15467
+17046	17339
+22807	22911
+23374	23426
+23525	23650
+			product	killer cell immunoglobulin-like receptor
+			transl_table	1
+

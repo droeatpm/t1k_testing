@@ -1,0 +1,28 @@
+##fileformat=VCFv4.1
+##contig=<ID=KIR3DL3*0010101,length=1233>
+##contig=<ID=KIR2DL3*0020102,length=1026>
+##contig=<ID=KIR2DP1*00101,length=572>
+##contig=<ID=KIR2DL1*0020102,length=1047>
+##contig=<ID=KIR3DP1*0060101,length=913>
+##contig=<ID=KIR2DL4*0010304,length=1134>
+##contig=<ID=KIR3DL1*0070101,length=1335>
+##contig=<ID=KIR2DS4*0010106,length=915>
+##contig=<ID=KIR3DL2*00903,length=1368>
+##contig=<ID=KIR3DL3*0030103,length=1233>
+##contig=<ID=KIR2DS2*0010105,length=915>
+##contig=<ID=KIR2DL2*0010102,length=1047>
+##contig=<ID=KIR2DL5B*0020101,length=1128>
+##contig=<ID=KIR2DS3*0010301,length=915>
+##contig=<ID=KIR2DP1*0010201,length=1049>
+##contig=<ID=KIR2DL1*0040101,length=1047>
+##contig=<ID=KIR3DP1*0030102,length=913>
+##contig=<ID=KIR2DL4*0050101,length=1134>
+##contig=<ID=KIR3DS1*0130101,length=1165>
+##contig=<ID=KIR2DL5A*0050101,length=1128>
+##contig=<ID=KIR2DS3*0020101,length=915>
+##contig=<ID=KIR2DS1*0020104,length=915>
+##contig=<ID=KIR3DL2*0070103,length=1368>
+##INFO=<ID=AF,Number=A,Type=Float,Description="Allele Frequency">
+##INFO=<ID=pl,Number=1,Type=Integer,Description="Phasing: 1 - HET contig 1, #2 - HET contig #2, 3 - HOM both contigs">
+##INFO=<ID=mt,Number=1,Type=String,Description="Variant Type: SUBSTITUTE/INSERT/DELETE">
+#CHROM	POS	ID	REF	ALT	QUAL	FILTER	INFO

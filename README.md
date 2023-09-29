@@ -11,6 +11,8 @@ Supporting information for evaluation of mourisl/T1K (https://github.com/mourisl
 
 'kpi' contains the presence/absence genotyping of twenty-six HPRC individuals from Illumina data.
 
-'t1k' contains the T1K genotyping of the twenty-six HPRC individuals from Illuminia data.
+'t1k_full' contains the T1K genotyping using the sorted full cram on the eight with Pacbio assembly.
+
+'t1k' contains the T1K genotyping using half of the unsorted cram on the twenty-six HPRC individuals from Illuminia data.
 
 results_analysis.xlsx contains the analysis and summaries.
